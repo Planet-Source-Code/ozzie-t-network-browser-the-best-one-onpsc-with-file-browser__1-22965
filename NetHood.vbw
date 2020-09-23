@@ -1,0 +1,5 @@
+frmNWCheck = 117, 74, 929, 686, C, 22, 22, 323, 370, C
+NetResource = 103, 171, 915, 783, C
+NetResources = 102, 423, 914, 1035, C
+modGlobal = 102, 388, 914, 1000, C
+frmSplash = 66, 66, 637, 414, Z, 44, 44, 345, 392, C
